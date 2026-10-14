@@ -1,2 +1,2 @@
-
-/* Your CSS Code here. */
+form{width: 320px; padding: 16px; border: 1px solid #ccc; border-radius: 8px; font-family: Arial, sans-serif;}
+input, select{margin: 6px 0 12px; padding: 6px;}
